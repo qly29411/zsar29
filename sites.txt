@@ -1,1 +1,1 @@
-authorize.net
+https://www.authorize.net
